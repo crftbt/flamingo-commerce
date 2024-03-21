@@ -8,9 +8,9 @@ require (
 	flamingo.me/dingo v0.2.10
 	flamingo.me/flamingo/v3 v3.8.0
 	flamingo.me/form v1.1.2
-	flamingo.me/graphql v1.11.1
+	flamingo.me/graphql v1.11.2
 	flamingo.me/pugtemplate v1.3.1
-	github.com/99designs/gqlgen v0.17.43
+	github.com/99designs/gqlgen v0.17.44
 	github.com/Rhymond/go-money v1.0.10
 	github.com/gavv/httpexpect/v2 v2.16.0
 	github.com/go-playground/form/v4 v4.2.1
@@ -22,7 +22,7 @@ require (
 	github.com/leekchan/accounting v0.3.1
 	github.com/pkg/errors v0.9.1
 	github.com/spf13/cobra v1.8.0
-	github.com/stretchr/testify v1.8.4
+	github.com/stretchr/testify v1.9.0
 	github.com/stvp/tempredis v0.0.0-20231107154819-8a695b693b9c
 	github.com/swaggo/swag v1.16.3
 	github.com/testcontainers/testcontainers-go v0.27.0
@@ -103,7 +103,7 @@ require (
 	github.com/magiconair/properties v1.8.7 // indirect
 	github.com/mailru/easyjson v0.7.6 // indirect
 	github.com/mattn/go-colorable v0.1.13 // indirect
-	github.com/mattn/go-isatty v0.0.19 // indirect
+	github.com/mattn/go-isatty v0.0.20 // indirect
 	github.com/matttproud/golang_protobuf_extensions v1.0.4 // indirect
 	github.com/mitchellh/go-wordwrap v1.0.1 // indirect
 	github.com/mitchellh/mapstructure v1.5.0 // indirect
@@ -132,9 +132,9 @@ require (
 	github.com/shirou/gopsutil/v3 v3.23.11 // indirect
 	github.com/shoenig/go-m1cpu v0.1.6 // indirect
 	github.com/sirupsen/logrus v1.9.3 // indirect
-	github.com/sosodev/duration v1.1.0 // indirect
+	github.com/sosodev/duration v1.2.0 // indirect
 	github.com/spf13/pflag v1.0.5 // indirect
-	github.com/stretchr/objx v0.5.0 // indirect
+	github.com/stretchr/objx v0.5.2 // indirect
 	github.com/tklauser/go-sysconf v0.3.12 // indirect
 	github.com/tklauser/numcpus v0.6.1 // indirect
 	github.com/uber/jaeger-client-go v2.25.0+incompatible // indirect
@@ -156,7 +156,7 @@ require (
 	golang.org/x/oauth2 v0.16.0 // indirect
 	golang.org/x/sync v0.6.0 // indirect
 	golang.org/x/sys v0.17.0 // indirect
-	golang.org/x/tools v0.13.0 // indirect
+	golang.org/x/tools v0.17.0 // indirect
 	golang.org/x/xerrors v0.0.0-20231012003039-104605ab7028 // indirect
 	google.golang.org/api v0.126.0 // indirect
 	google.golang.org/appengine v1.6.8 // indirect
